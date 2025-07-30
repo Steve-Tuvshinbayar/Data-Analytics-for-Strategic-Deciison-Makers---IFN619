@@ -42,8 +42,6 @@ indigenous-inclusion-analytics-IFN619/
 
 Tuvshinbayar Ryenchindorj  
 QUT – Master of IT (Data Science Major)  
-Student ID: 11790300  
-Assignment for: IFN619 – Data Analytics for Strategic Decision Makers
 
 ---
 
